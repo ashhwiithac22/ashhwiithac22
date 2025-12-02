@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=900&color=4DA6FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Full+Stack+Developer;Database+Specialist;AI+%26+ML+Learner;Always+Learning+%F0%9F%93%9A" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=900&color=4DA6FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Full+Stack+Developer;Database+Specialist;AI+%26+ML+Learner" />
 
 </div>
 
@@ -21,10 +21,10 @@
 - Python, Java, SQL  
 
 **Frontend:**  
-- HTML, CSS, JavaScript, React  
+- HTML, CSS, JavaScript, React, Angular
 
 **Backend:**  
--Node, Express
+- Node, Express
 
 **Databases:**  
 - MySQL, MongoDB  
@@ -35,12 +35,11 @@
 ---
 
 ## 📁 Featured Skills  
-- 📊 Data Cleaning, Analysis & Visualization  
+- 📊 Data Cleaning, Analysis & Visualization
+- 🤖 Machine Learning & Predictive Modeling 
 - 🛢️ Database Design & SQL Queries  
-- ⚙️ Application Development
 - 🌐 Creating clean and responsive web pages  
-- 🤖 Basics of AI/ML & problem-solving  
-
+- 🐞 Bug Hunting & Vulnerability Assessment
 ---
 
 ## 📚 Currently Learning  
@@ -48,16 +47,16 @@
 - Cyber Security fundamentals
 - Advanced SQL & database optimization  
 - Cloud fundamentals
-- 
+
 
 ---
 
 ## 🌐 Connect With Me  
 📧 Email: *ashwithac22@gmail.com*  
 🔗 LinkedIn: *https://www.linkedin.com/in/ashwitha-c/*  
-
+📁 Portfolio: *https://ashwithasportfolioreact-e4m2eccaq-ashwitha-cs-projects.vercel.app/*
 
 
 ---
 
-⭐ *Thank you for visiting my profile! Feel free to explore my repositories.*  
+
