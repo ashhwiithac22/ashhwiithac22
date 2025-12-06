@@ -54,7 +54,7 @@
 ## 🌐 Connect With Me  
 📧 Email: *ashwithac22@gmail.com*  
 🔗 LinkedIn: *https://www.linkedin.com/in/ashwitha-c/*  
-📁 Portfolio: *https://ashwithasportfolioreact-e4m2eccaq-ashwitha-cs-projects.vercel.app/*
+📁 Portfolio: *https://ashwithaportfolio.netlify.app/*
 
 
 ---
