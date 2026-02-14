@@ -9,7 +9,7 @@
 
 ---
 
-## 💫 About Me
+## 📌 Professional Summary
 
 I am a passionate Data Analytics, Machine Learning, AI, and Full Stack Developer who enjoys building real-world data-driven applications and simplifying complex concepts into practical solutions. I have hands-on experience in developing end-to-end projects and continuously work on improving my analytical and development skills.
 
@@ -22,7 +22,7 @@ I am a passionate Data Analytics, Machine Learning, AI, and Full Stack Developer
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Find Me online
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashwitha-c/">
@@ -36,7 +36,7 @@ I am a passionate Data Analytics, Machine Learning, AI, and Full Stack Developer
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,firebase,androidstudio,react,nodejs,typescript,express,netlify,vercel,angular,mongodb&perline=7" />
@@ -50,7 +50,7 @@ I am a passionate Data Analytics, Machine Learning, AI, and Full Stack Developer
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Development Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ashhwiithac22&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
