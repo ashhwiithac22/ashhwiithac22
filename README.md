@@ -1,61 +1,67 @@
-<h1 align="center">Hi, I'm <span style="color:#4da6ff;">Ashwitha</span> 👋</h1>
+<!-- ================= HEADER ================= -->
 
-<div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=900&color=4DA6FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Full+Stack+Developer;Database+Specialist;AI+%26+ML+Learner" />
+<h1 align="center">Hi 👋, I'm Ashwitha C</h1>
+<h3 align="center">Data Analyst • ML Enthusiast • Full Stack Developer</h3>
 
-</div>
-
----
-
-## 👩🏻‍💻 About Me  
-🌟 I'm **Ashwitha**, passionate about technology, data, and solving real-world problems.  
-🎓 MSc Student, always curious and improving my skills every day.  
-💡 I enjoy working on **data analytics, databases, full-stack development, and database concepts**.  
-🚀 I believe in learning by building simple, useful, and meaningful projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashhwiithac22&label=Profile%20views&color=ff69b4&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:**  
-- Python, Java, SQL  
+## 💫 About Me
 
-**Frontend:**  
-- HTML, CSS, JavaScript, React, Angular
+I am a passionate Data Analytics, Machine Learning, AI, and Full Stack Developer who enjoys building real-world data-driven applications and simplifying complex concepts into practical solutions. I have hands-on experience in developing end-to-end projects and continuously work on improving my analytical and development skills.
 
-**Backend:**  
-- Node, Express
-
-**Databases:**  
-- MySQL, MongoDB  
-
-**Tools & Platforms:**  
-- Git, GitHub, VS Code, Power BI, Excel  
+* 🔭 Working on Data Analytics, AI, and Full Stack projects
+* 🌱 Currently strengthening DSA and Cloud fundamentals
+* 👯 Open to collaboration on AI/ML and analytics dashboards
+* 🤝 Exploring real-world ML deployment and optimization
+* 🧠 Domain: Data Analytics • Machine Learning • AI • Full Stack
+* 🎯 Goal: Become a skilled Data Analyst and Developer
 
 ---
 
-## 📁 Featured Skills  
-- 📊 Data Cleaning, Analysis & Visualization
-- 🤖 Machine Learning & Predictive Modeling 
-- 🛢️ Database Design & SQL Queries  
-- 🌐 Creating clean and responsive web pages  
-- 🐞 Bug Hunting & Vulnerability Assessment
----
+## 🌐 Connect With Me
 
-## 📚 Currently Learning  
-- Generative AI concepts  
-- Cyber Security fundamentals
-- Advanced SQL & database optimization  
-- Cloud fundamentals
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashwitha-c/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwitha-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:ashwithac22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Phone-9345048662-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me  
-📧 Email: *ashwithac22@gmail.com*  
-🔗 LinkedIn: *https://www.linkedin.com/in/ashwitha-c/*  
-📁 Portfolio: *https://ashwithacportfolio.netlify.app/*
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,firebase,androidstudio,react,nodejs,typescript,express,netlify,vercel,angular,mongodb&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashhwiithac22&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashhwiithac22&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
