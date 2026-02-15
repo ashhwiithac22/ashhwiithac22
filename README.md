@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ashwitha C</h1>
 <h3 align="center">Data Analyst • ML Enthusiast • Full Stack Developer</h3>
 
-
 ---
 
 ## 📌 Professional Summary
