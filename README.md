@@ -35,16 +35,14 @@ I am a passionate Data Analytics, Machine Learning, AI, and Full Stack Developer
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,firebase,androidstudio,react,nodejs,typescript,express,netlify,vercel,angular,mongodb&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,firebase,androidstudio,react,nodejs,typescript,express,netlify,vercel,angular,mongodb,streamlit,jenkins,wireshark&perline=7" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-0A0A0A?style=for-the-badge"/>
 </p>
-
----
 
 ## 🚀 Development Activity
 
