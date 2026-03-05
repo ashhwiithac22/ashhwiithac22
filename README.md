@@ -42,6 +42,8 @@ I am a passionate Data Analytics, Machine Learning, AI, and Full Stack Developer
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+</p>
 </p>
 
 ## 🚀 Development Activity
