@@ -1,23 +1,15 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Ashwitha C</h1>
-<h3 align="center">Data Analyst • ML Enthusiast • Full Stack Developer</h3>
+<h3 align="center">Data Analyst • AI & ML Enthusiast • Full Stack Developer • Cloud & DevOps Enthusiast </h3>
 
 ---
 
 ## 📌 Professional Summary
 
-I am a passionate Data Analytics, Machine Learning, AI, and Full Stack Developer who enjoys building real-world data-driven applications and simplifying complex concepts into practical solutions. I have hands-on experience in developing end-to-end projects and continuously work on improving my analytical and development skills.
-
-* 🔭 Working on Data Analytics, AI, and Full Stack projects
-* 🌱 Currently strengthening DSA and Cloud fundamentals
-* 👯 Open to collaboration on AI/ML and analytics dashboards
-* 🤝 Exploring real-world ML deployment and optimization
-* 🧠 Domain: Data Analytics • Machine Learning • AI • Full Stack
-* 🎯 Goal: Become a skilled Data Analyst and Developer
+I am passionate about Data Analytics, Machine Learning, Artificial Intelligence, Generative AI, and Full Stack Development, with a focus on strengthening skills in Cloud Computing and DevOps for scalable application development.
 
 ---
-
 ## 🔗 Find Me online
 
 <p align="center">
@@ -27,7 +19,6 @@ I am a passionate Data Analytics, Machine Learning, AI, and Full Stack Developer
   <a href="mailto:ashwithac22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Phone-9345048662-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
 ---
@@ -50,6 +41,16 @@ I am a passionate Data Analytics, Machine Learning, AI, and Full Stack Developer
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ashhwiithac22&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
+</p>
+
+---
+## 💻 LeetCode Activity
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/ashhwiithac22?theme=dark&font=Baloo&ext=heatmap"/>
+<p align="center">
+
+<img src="https://i.ibb.co/XrRmgr8W/image.png" width="130">
+<img src="https://i.ibb.co/6RRKR5Qs/image.png" width="130">
 </p>
 
 ---
