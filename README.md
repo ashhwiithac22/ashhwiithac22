@@ -44,16 +44,6 @@ I am passionate about Data Analytics, Machine Learning, Artificial Intelligence,
 </p>
 
 ---
-## 💻 LeetCode Activity
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/ashhwiithac22?theme=dark&font=Baloo&ext=heatmap"/>
-<p align="center">
-
-<img src="https://i.ibb.co/XrRmgr8W/image.png" width="130">
-<img src="https://i.ibb.co/6RRKR5Qs/image.png" width="130">
-</p>
-
----
 
 ## 📈 Contribution Graph
 
