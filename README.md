@@ -26,7 +26,7 @@ I am passionate about Data Analytics, Machine Learning, Artificial Intelligence,
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,firebase,androidstudio,react,nodejs,typescript,express,netlify,vercel,angular,mongodb,streamlit,jenkins,wireshark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,firebase,androidstudio,react,nodejs,typescript,express,netlify,vercel,angular,mongodb,streamlit,linux,docker,kubernetes,jenkins,wireshark&perline=7" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
