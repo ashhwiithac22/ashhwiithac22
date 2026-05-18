@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Ashwitha C</h1>
-<h3 align="center">Data Analyst • AI & ML Enthusiast • Full Stack Developer • Cloud & DevOps Enthusiast </h3>
+<h3 align="center">Data Analyst • AI & ML Enthusiast •  Developer • Cloud & DevOps Enthusiast </h3>
 
 ---
 
